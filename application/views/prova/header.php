@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Investimentos</title>
+    <title>Prova BDR - PHP</title>
 
     {css}
 

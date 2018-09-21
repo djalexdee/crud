@@ -1,7 +1,7 @@
 <div id="page-wrapper">
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Sistema de Investimentos</h1>
+            <h1 class="page-header">Prova de Conhecimentos em PHP</h1>
         </div>
         <!-- /.col-lg-12 -->
     </div>
@@ -14,10 +14,10 @@
                    Notificação
                 </div>
                 <div class="panel-body">
-                    <p>Selecione no Menu a operação que deseja realizar.</p>
+                    <p>Selecione no Menu ao lado os itens da prova a executar.</p>
                 </div>
                 <div class="panel-footer">
-                    <p>Teste TBB - Alex Sander Corrêa Martins</p>
+                    <p>Teste BDR - Alex Sander Corrêa Martins</p>
                 </div>
             </div>
             <!-- /.col-lg-4 -->

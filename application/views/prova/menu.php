@@ -11,7 +11,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Investimentos Financeiros</a>
+                <a class="navbar-brand" href="#">Prova PHP - BDR Anista Desenvolvedor</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -22,25 +22,22 @@
                             <a href="<?php echo base_url('') ?>"><i class="fa fa-dashboard fa-fw"></i> Home</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Investimentos<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> FizzBuzz<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="<?php echo base_url('investimento/listar'); ?>">Listar</a>
-                                </li>
-                                <li>
-                                    <a href="<?php echo base_url('investimento/cadastro'); ?>">Cadastro</a>
+                                    <a href="<?php echo base_url('prova/fizzBuzz'); ?>">Exercício 1</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Simulações<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Refatorações<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="<?php echo base_url('simulacao/listar'); ?>">Listar</a>
+                                    <a href="<?php echo base_url('prova/refatorar_1'); ?>">Exercício 2</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('simulacao/cadastro'); ?>">Cadastro</a>
+                                    <a href="<?php echo base_url('prova/refatorar_2'); ?>">Exercício 3</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->

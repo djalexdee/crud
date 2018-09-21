@@ -243,12 +243,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             set_tema('js', load_js('morris-data'), FALSE);
             set_tema('js', load_js('sb-admin-2'), FALSE);
 
-            set_tema('header', 'investimento/header');
-            set_tema('menu', 'investimento/menu');
-            set_tema('template', 'investimento/content');
+            set_tema('header', 'prova/header');
+            set_tema('menu', 'prova/menu');
+            set_tema('template', 'prova/content');
             set_tema('link_profile', base_url('usuarios/profile'));
             set_tema('link_sair', base_url('login/sair'));
-            set_tema('footer', 'investimento/footer');
+            set_tema('footer', 'prova/footer');
             set_tema('debug', '');
         }
         
